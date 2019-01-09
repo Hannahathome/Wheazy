@@ -5,6 +5,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/Hannahathome/Wheazy-arduino-code.git
 git push -u origin master
 
+CODE FOR ARDUINO PROJECT 2
 
 // Made by Hannah van Iterson (2018), 2nd year Bachelor student at the Department of Industrial Design at the TU/e.  
 // This code was inspired by :
